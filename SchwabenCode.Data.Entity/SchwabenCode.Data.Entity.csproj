@@ -50,7 +50,6 @@
     <Compile Include="ValidateableEntity.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include=".t4\MultipleOutput.ttinclude" />
     <None Include="packages.config" />
     <None Include="SchwabenCode.Data.Entity.nuspec">
       <SubType>Designer</SubType>
