@@ -14,9 +14,9 @@
     <releaseNotes>First release</releaseNotes>
     <copyright>Copyright Benjamin Abt (SchwabenCode.com) 2015</copyright>
 
-    <references>
-      <reference file="System.ComponentModel.DataAnnotations.dll" />
-    </references>
+    <dependencies>
+      <dependency id="System.ComponentModel.Annotations" version="[4]" />
+    </dependencies>
   </metadata>
   <files>
       <file src="bin\Release\SchwabenCode.Data.Entity.dll" target="lib\net40\" />
