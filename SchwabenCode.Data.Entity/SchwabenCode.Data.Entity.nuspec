@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SchwabenCode.Data.Entity</id>
+    <version>0.0.2-alpha</version>
+    <title>SchwabenCode.Data.Entity</title>
+    <authors>Benjamin Abt (SchwabenCode.com)</authors>
+    <owners>Benjamin Abt (SchwabenCode.com)</owners>
+    <licenseUrl>https://github.com/SchwabenCode/Data.Entity/blob/master/LICENSE.md</licenseUrl>
+    <projectUrl>https://github.com/SchwabenCode/Data.Entity</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Entity Handling by SchwabenCode</description>
+    <summary>Entity Handling by SchwabenCode</summary>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>Copyright Benjamin Abt (SchwabenCode.com) 2015</copyright>
+
+    <references>
+      <reference file="System.ComponentModel.DataAnnotations.dll" />
+    </references>
+  </metadata>
+  <files>
+      <file src="bin\Release\SchwabenCode.Data.Entity.dll" target="lib\net40\" />
+      <file src="bin\Release\SchwabenCode.Data.Entity.XML" target="lib\net40\" />
+    </files>
+</package>
