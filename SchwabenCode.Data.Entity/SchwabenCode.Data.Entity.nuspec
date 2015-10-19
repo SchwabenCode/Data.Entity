@@ -13,6 +13,7 @@
     <summary>Entity Handling by SchwabenCode</summary>
     <releaseNotes>First release</releaseNotes>
     <copyright>Copyright Benjamin Abt (SchwabenCode.com) 2015</copyright>
+    <tags>Entity Repository Pattern Database MongoDB EntityFramework SchwabenCode BenjaminAbt</tags>
   </metadata>
   <files>
       <file src="bin\Release\SchwabenCode.Data.Entity.dll" target="lib\net40\" />
