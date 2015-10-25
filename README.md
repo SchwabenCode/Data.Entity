@@ -1,1 +1,5 @@
 # SchwabenCode.Data.Entity
+**by [SchwabenCode.com](http://www.schwabencode.com) - Benjamin Abt**
+
+[![License](https://img.shields.io/github/license/SchwabenCode/Data.Entity.svg?label=License&style=flat-square)](https://www.nuget.org/packages/SchwabenCode.Data.Entity/) 
+[![NuGet Downloads](https://img.shields.io/nuget/dt/SchwabenCode.Data.Entity.svg?label=NuGet%20Downloads&style=flat-square)](https://www.nuget.org/packages/SchwabenCode.Data.Entity/) [![NuGet Version](https://img.shields.io/nuget/v/SchwabenCode.Data.Entity.svg?label=NuGet%20Release&style=flat-square)](https://www.nuget.org/packages/SchwabenCode.Data.Entity/) [![NuGet PreVersion](https://img.shields.io/nuget/vpre/SchwabenCode.Data.Entity.svg?label=NuGet%20Pre-Version&style=flat-square)](https://www.nuget.org/packages/SchwabenCode.Data.Entity/) ![GitHub Release](https://img.shields.io/github/release/SchwabenCode/Data.Entity.svg?label=GitHub%20Release&style=flat-square) ![GitHub Issues](https://img.shields.io/github/issues/SchwabenCode/Data.Entity.svg?label=Open%20Issues&style=flat-square)
